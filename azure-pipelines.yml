@@ -8,8 +8,6 @@ trigger:
 
 pool:
   name: 'Azure Pipelines'
-  demands:
-    - npm   
 
 steps:
 - task: Maven@3
