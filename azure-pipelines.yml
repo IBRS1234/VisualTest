@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: '碎月の珍贵礼物'
+  name: 'default'
   demands:
     - npm   
 
